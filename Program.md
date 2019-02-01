@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 ## Program for the workshop
 
