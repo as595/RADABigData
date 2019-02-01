@@ -1,38 +1,14 @@
 ## RADA Big Data Workshop
 ### 11 - 15 Jan 2019 Medellín, Colombia 
 
-You can use the [editor on GitHub](https://github.com/as595/RADABigData/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The workshop is part of the Radio Astronomy for Development in the Americas (RADA) Big Data program, which is jointly funded by the UK Newton Fund and the Ministerio de Tecnologías de la Información y las Comunicaciones de Colombia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The workshop combines lectures and tutorials on data science across the three RADA key themes of Astronomy, Health and Agriculture. Students will also undertake team data science projects across the three themes during the workshop, supported by an international group of tutors from the UK and Colombia.
 
 ### Program
 
 A draft schedule for the workshop can be found [here](www.as595.github.io/RADABigData/Program).
 
-```markdown
-Syntax highlighted code block
+### Projects
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/as595/RADABigData/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A description of the three projects can be found [here](www.as595.github.io/RADABigData/Projects).
