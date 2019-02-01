@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Program
 
-A draft schedule for the workshop can be found [here](www.as595.github.io/Program).
+A draft schedule for the workshop can be found [here](Program.md).
 
 ```markdown
 Syntax highlighted code block
