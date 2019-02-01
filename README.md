@@ -5,9 +5,9 @@ You can use the [editor on GitHub](https://github.com/as595/RADABigData/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Program
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A draft schedule for the workshop can be found [here]()
 
 ```markdown
 Syntax highlighted code block
