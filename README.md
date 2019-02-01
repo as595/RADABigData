@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Program
 
-A draft schedule for the workshop can be found [here]()
+A draft schedule for the workshop can be found [here](https://github.com/as595/RADABigData/blob/master/Program.md).
 
 ```markdown
 Syntax highlighted code block
