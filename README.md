@@ -1,6 +1,6 @@
-### RADA Big Data Workshop
-## 11 - 15 Jan 2019
-## Medellín, Colombia 
+## RADA Big Data Workshop
+### 11 - 15 Jan 2019
+### Medellín, Colombia 
 
 You can use the [editor on GitHub](https://github.com/as595/RADABigData/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
