@@ -11,8 +11,9 @@ A draft schedule for the workshop can be found [here](./Program.md).
 
 ### Projects
 
-A description of the three projects can be found [here](./Projects.html).
-
+1. Astronomy: Classifying Pulsars
+3. Agriculture: Landcover classification with Sentinel 2 time series data
+3. Health: Radiotherapy and Machine Learning
 
 ### Workshop Code of Conduct
 
