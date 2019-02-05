@@ -57,7 +57,6 @@ layout: default
 | 15:30 - 16:00    |  Coffee Break |  
 | 16:00 -  17:30   |   Project Work  | 
 | 17:30 - 18:00    |   Project Updates (3 mins per group)   |
-| 19:00 - 21:00    |  Workshop Dinner     | 
 
 
 | Time             | Friday   |
