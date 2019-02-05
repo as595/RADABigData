@@ -7,7 +7,7 @@ The workshop combines lectures and tutorials on data science across the three RA
 
 ### Program
 
-A draft schedule for the workshop can be found [here](./Program.html).
+A draft schedule for the workshop can be found [here](./Program.md).
 
 ### Projects
 
