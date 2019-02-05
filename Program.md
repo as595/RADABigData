@@ -19,9 +19,9 @@ layout: default
 
 | Time             | Tuesday   |
 | ----------------:|:----------|
-| 09:00 - 10:00    |   Astro + ML - Carlos      | 
+| 09:00 - 10:00    |   Astro + ML - Carlos Gomez      | 
 | 10:00 - 10:30    |   Coffee Break       |
-| 10:30 - 11:30    |   Astro + ML - Carlos       | 
+| 10:30 - 11:30    |   Astro + ML - Carlos Gomez       | 
 | 11:30 - 12:30    |   TBC   | 
 | 12:30 - 13:30    |   Lunch        | 
 | 13:30 - 15:30    |  Project Work   | 
