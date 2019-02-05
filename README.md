@@ -11,7 +11,7 @@ A draft schedule for the workshop can be found [here](./Program.html).
 
 ### Projects
 
-A description of the three projects can be found [here](www.as595.github.io/RADABigData/Projects).
+A description of the three projects can be found [here](./Projects.html).
 
 
 ### Workshop Code of Conduct
