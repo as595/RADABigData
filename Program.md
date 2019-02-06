@@ -21,7 +21,7 @@ layout: default
 | 09:00 - 10:00    |   Astro + ML - Carlos Gomez      | 
 | 10:00 - 10:30    |   Coffee Break       |
 | 10:30 - 11:30    |   Astro + ML - Carlos Gomez       | 
-| 11:30 - 12:30    |   TBC   | 
+| 11:30 - 12:30    |   RADA UK student talks   | 
 | 12:30 - 13:30    |   Lunch        | 
 | 13:30 - 15:30    |  Project Work   | 
 | 15:30 - 16:00    |  Coffee Break |  
