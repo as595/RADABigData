@@ -11,7 +11,7 @@ A draft schedule for the workshop can be found [here](./Program.md).
 
 ### Projects
 
-1. Astronomy: Classifying Pulsars
+1. Astronomy: Classifying Pulsars with Machine Learning
 3. Agriculture: Landcover classification with Sentinel 2 time series data
 3. Health: Radiotherapy and Machine Learning
 
