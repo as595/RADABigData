@@ -44,10 +44,10 @@ layout: default
 
 | Time             | Thursday  |
 | ----------------:|:----------|
-| 09:00 - 10:00    |   Health + ML - Eliana & Andrew    | 
+| 09:00 - 10:00    |   Radiotherapy in Medellin - Gonzalo Cabal   | 
 | 10:00 - 10:30    |   Coffee Break     |
-| 10:30 - 11:00    |   Radiotherapy in Medellin - Gonzalo Cabal  | 
-| 11:00 - 11:45    |   Health + ML - Eliana & Andrew          | 
+| 10:30 - 11:00    |   Health + ML - Eliana & Andrew   | 
+| 11:00 - 11:45    |   Health + ML - Eliana & Andrew   | 
 | 11:45 - 12:30    |   Project Work     | 
 | 12:30 - 13:30    |   Lunch        | 
 | 13:30 - 15:30    |  Project Work   | 
