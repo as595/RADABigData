@@ -8,7 +8,7 @@ layout: default
 | Time             | Monday    |
 | ----------------:|:----------|
 | 12:00 - 14:00    |  Registration & Lunch  | 
-| 14:00 - 14:15    |  Welcome - Anna Scaife | 
+| 14:00 - 14:15    |  Welcome - Anna Scaife & Sally Cooper | 
 | 14:15 - 15:00    |  Introduction to Python and Data Science - Anna Scaife | 
 | 15:00 - 16:00    |  Introduction to Machine Learning - Alex Clarke |  
 | 16:00 - 16:30    |  Coffee Break |  
