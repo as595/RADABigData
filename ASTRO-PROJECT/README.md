@@ -28,3 +28,8 @@ This tutorial is based on the [IAU OAD Data Science Toolkit](https://github.com/
 It shows how to set up a random forest classifier in Python, derive evaluation metrics, optimize hyper-parameters and produce a feature ranking.
 
 Notebook: [PulsarClassifier.ipynb](https://github.com/as595/NITheP/blob/master/TUTORIALS/PulsarClassifier.ipynb)
+
+
+### Context
+
+The project is based on [this paper](https://academic.oup.com/mnras/article/336/2/621/1160798).
