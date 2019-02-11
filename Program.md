@@ -14,7 +14,7 @@ layout: default
 | 16:00 - 16:30    |  Coffee Break |  
 | 16:30 - 17:00    |   Laptop Clinic  | 
 | 17:00 - 18:00    |   Project allocations    |
-| 18:00 - 19:00    |   Drinks Reception  |
+| 18:30 - 19:30    |   Drinks Reception - Lobby Terrace  |
 
 | Time             | Tuesday   |
 | ----------------:|:----------|
