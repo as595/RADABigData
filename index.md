@@ -7,7 +7,7 @@ The workshop combines lectures and tutorials on data science across the three RA
 
 ### Program
 
-A draft schedule for the workshop can be found [here](./Program.md) and the presentations from the workshop can be found [here]().
+A draft schedule for the workshop can be found [here](./Program.md) and the presentations from the workshop can be found [here](https://github.com/as595/RADABigData/tree/master/TALKS).
 
 ### Projects
 
