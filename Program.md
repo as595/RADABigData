@@ -12,8 +12,8 @@ layout: default
 | 14:15 - 15:00    |  Introduction to Python and Data Science - Anna Scaife | 
 | 15:00 - 16:00    |  Introduction to Machine Learning - Alex Clarke |  
 | 16:00 - 16:30    |  Coffee Break |  
-| 16:30 - 17:00    |   Laptop Clinic  | 
-| 17:00 - 18:00    |   Project allocations    |
+| 16:30 - 17:00    |   Project Descriptions & Allocations  | 
+| 17:00 - 18:00    |   Laptop Clinic    |
 | 18:30 - 19:30    |   Drinks Reception - Lobby Terrace  |
 
 | Time             | Tuesday   |
