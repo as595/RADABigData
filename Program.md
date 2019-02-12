@@ -21,7 +21,7 @@ layout: default
 | 09:00 - 10:00    |   Astro + ML - Carlos Gomez      | 
 | 10:00 - 10:30    |   Coffee Break       |
 | 10:30 - 11:30    |   Astro + ML - Carlos Gomez       | 
-| 11:30 - 12:30    |   RADA UK student talks   | 
+| 11:30 - 12:30    |   RADA UK Student Talks   | 
 | 12:30 - 13:30    |   Lunch        | 
 | 13:30 - 15:30    |  Project Work   | 
 | 15:30 - 16:00    |  Coffee Break |  
@@ -35,8 +35,9 @@ layout: default
 | 10:30 - 11:00    |   BIOS - Jorge Arboleda    | 
 | 11:00 - 11:45    |   Agriculture + ML (practical) - Joe Fennell | 
 | 11:45 - 12:30    |   Project Work     | 
-| 12:30 - 13:30    |   Lunch        | 
-| 13:30 - 15:30    |  Project Work   | 
+| 12:30 - 13:30    |   Lunch        |
+| 13:30 - 13:45    |   RADA UK Student Talk        |
+| 13:45 - 15:30    |  Project Work   | 
 | 15:30 - 16:00    |  Coffee Break |  
 | 16:00 -  17:30   |   Project Work  | 
 | 17:30 - 18:00    |   Project Updates (3 mins per group)   |
