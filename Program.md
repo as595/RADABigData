@@ -58,9 +58,9 @@ layout: default
 | 17:30 - 18:00    |   Project Updates (3 mins per group)   |
 
 | Time             | Friday    |
-| :----------------|:----------|
-| 09:00 - 10:00    |   Group Work    | 
-| 10:00 - 10:30    |   Coffee Break    |
-| 10:30 - 12:00    |   Group Presentations   | 
-| 12:00 - 12:30    |   Judging & Wrap-up    | 
+| -----------------|-----------|
+| 09:00 - 10:00    | Group Work    | 
+| 10:00 - 10:30    | Coffee Break    |
+| 10:30 - 12:00    | Group Presentations   | 
+| 12:00 - 12:30    | Judging & Wrap-up    | 
 
