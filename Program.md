@@ -33,7 +33,7 @@ layout: default
 | 09:00 - 09:40    |   Big Data in Agriculture - Joe Fennell, UoM      | 
 | 09:40 - 10:00    |   Bioinformatics in Colombia - Eduardo Gomez, BIOS |
 | 10:00 - 10:30    |   Coffee Break       |
-| 10:30 - 10:50    |   Rice Disease Monitoring with Sentinel 2 - Andres Ariza, UoM    | 
+| 10:30 - 10:50    |  Rice Disease Monitoring with Sentinel 2 - Andres Ariza, UoM    <br />| 
 | 10:50 - 11:15    |  Ecosystem Monitoring at CIAT - Paula Andrea Paz, CIAT |
 | 11:15 - 12:00    |   Code walk through/practical  | 
 | 12:00 - 12:30    |   RADA UK student talks x2  | 
