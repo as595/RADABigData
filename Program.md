@@ -18,7 +18,7 @@ layout: default
 
 | Time             | Tuesday   |
 | -----------------|-----------|
-| 09:00 - 10:00    |   Astro + ML - Carlos Gomez      | 
+| 09:00 - 10:00    |   Astro + ML - Carlos Gomez }_     | 
 | 10:00 - 10:30    |   Coffee Break       |
 | 10:30 - 11:30    |   Astro + ML - Carlos Gomez       | 
 | 11:30 - 12:30    |   RADA UK Student Talks x2   | 
