@@ -8,9 +8,9 @@ layout: default
 | Time             | Monday    |
 | ----------------:|:----------|
 | 12:00 - 14:00    |  Registration & Lunch  | 
-| 14:00 - 14:15    |  Welcome - Anna Scaife & Sally Cooper | 
-| 14:15 - 15:00    |  Introduction to Python and Data Science - Anna Scaife | 
-| 15:00 - 16:00    |  Introduction to Machine Learning - Alex Clarke |  
+| 14:00 - 14:15    |  Welcome - Anna Scaife & Sally Cooper, UoM | 
+| 14:15 - 15:00    |  Introduction to Python and Data Science - Anna Scaife, UoM | 
+| 15:00 - 16:00    |  Introduction to Machine Learning - Alex Clarke, UoM |  
 | 16:00 - 16:30    |  Coffee Break |  
 | 16:30 - 17:00    |   Project Descriptions & Allocations  | 
 | 17:00 - 18:00    |   Laptop Clinic    |
@@ -33,7 +33,7 @@ layout: default
 | 09:00 - 09:40    |   Big Data in Agriculture - Joe Fennell, UoM      | 
 | 09:40 - 10:00    |   Bioinformatics in Colombia - Eduardo Gomez, BIOS |
 | 10:00 - 10:30    |   Coffee Break       |
-| 10:30 - 10:50    |   Rice Disease Monitoring with Sentinel 2 - Andres Aguilar Ariza, UoM    | 
+| 10:30 - 10:50    |   Rice Disease Monitoring with Sentinel 2 - Andres Ariza, UoM    | 
 | 10:50 - 11:15    |  Ecosystem Monitoring at CIAT - Paula Andrea Paz, CIAT |
 | 11:15 - 12:00    |   Code walk through/practical  | 
 | 12:00 - 12:30    |   RADA UK student talks x2  | 
