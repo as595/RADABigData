@@ -38,12 +38,11 @@ layout: default
 | 12:30 - 13:30    |   Lunch        |
 | 13:30 - 15:30    |  Project Work   | 
 | 15:30 - 16:00    |  Coffee Break |  
-| 16:00 - 17:30   |   Project Work  | 
+| 16:00 - 17:30    |   Project Work  | 
 | 17:30 - 18:00    |   Project Updates (3 mins per group)   |
 | 19:00 - 21:00    |  Workshop Dinner     | 
-
-| Time             | Thursday  |
-| -----------------|-----------|
+| | |
+| **Time**         | **Thursday**  |
 | 09:00 - 10:00    |   Radiotherapy in Medellin - Gonzalo Cabal   | 
 | 10:00 - 10:30    |   Coffee Break     |
 | 10:30 - 11:00    |   Health + ML - Eliana & Andrew   | 
@@ -54,9 +53,8 @@ layout: default
 | 15:30 - 16:00    |  Coffee Break |  
 | 16:00 - 17:30   |   Project Work  | 
 | 17:30 - 18:00    |   Project Updates (3 mins per group)   |
-
-| Time             | Friday    |
-| -----------------|-----------|
+| | |
+| **Time**         | **Friday**    |
 | 09:00 - 10:00    | Group Work    | 
 | 10:00 - 10:30    | Coffee Break    |
 | 10:30 - 12:00    | Group Presentations   | 
