@@ -5,8 +5,7 @@ The workshop is part of the Radio Astronomy for Development in the Americas (RAD
 
 The workshop combines lectures and tutorials on data science across the three RADA key themes of Astronomy, Health and Agriculture. Students will also undertake team data science projects across the three themes during the workshop, supported by an international group of tutors from the UK and Colombia.
 
-<img src="GroupPicBigDataColombia2019.pdf" alt="hi" class="inline"/>
-
+<img src="GroupPicBigDataColombia2019.png" class="inline"/>
 
 ### Program
 
