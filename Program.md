@@ -9,7 +9,7 @@ layout: default
 | ----------------:|:----------|
 | 12:00 - 14:00    |  Registration & Lunch  | 
 | 14:00 - 14:15    |  Welcome - Anna Scaife & Sally Cooper, UoM | 
-| 14:15 - 15:00    |  Introduction to Python and Data Science - Anna Scaife, UoM | 
+| 14:15 - 15:00    |  Introduction to Python and Data Science - Anna Scaife | 
 | 15:00 - 16:00    |  Introduction to Machine Learning - Alex Clarke, UoM |  
 | 16:00 - 16:30    |  Coffee Break |  
 | 16:30 - 17:00    |   Project Descriptions & Allocations  | 
