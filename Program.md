@@ -15,6 +15,7 @@ layout: default
 | 16:30 - 17:00    | Project Descriptions & Allocations  | 
 | 17:00 - 18:00    | Laptop Clinic    |
 | 18:30 - 19:30    | Drinks Reception - Lobby Terrace  |
+| | |
 | **Time**         | **Tuesday**   |
 | 09:00 - 10:00    | Astro + ML - Carlos Gomez          | 
 | 10:00 - 10:30    | Coffee Break                        |
@@ -25,9 +26,8 @@ layout: default
 | 15:30 - 16:00    | Coffee Break                           |  
 | 16:00 - 17:30    | Project Work                          | 
 | 17:30 - 18:00    | Project Updates (3 mins per group)     |
-
-| Time             | Wednesday |
-| -----------------|-----------|
+| | |
+| **Time**         | **Wednesday** |
 | 09:00 - 09:40    |   Big Data in Agriculture - Joe Fennell, UoM      | 
 | 09:40 - 10:00    |   Bioinformatics in Colombia - Eduardo Gomez, BIOS |
 | 10:00 - 10:30    |   Coffee Break       |
