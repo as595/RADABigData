@@ -16,7 +16,6 @@ layout: default
 | 17:00 - 18:00    | Laptop Clinic    |
 | 18:30 - 19:30    | Drinks Reception - Lobby Terrace  |
 | **Time**         | **Tuesday**   |
-| -----------------|-----------|
 | 09:00 - 10:00    | Astro + ML - Carlos Gomez          | 
 | 10:00 - 10:30    | Coffee Break                        |
 | 10:30 - 11:30    | Astro + ML - Carlos Gomez         | 
