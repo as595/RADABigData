@@ -21,7 +21,7 @@ layout: default
 | 09:00 - 10:00    |   Astro + ML - Carlos Gomez      | 
 | 10:00 - 10:30    |   Coffee Break       |
 | 10:30 - 11:30    |   Astro + ML - Carlos Gomez       | 
-| 11:30 - 12:30    |   RADA UK Student Talks   | 
+| 11:30 - 12:30    |   RADA UK Student Talks x2   | 
 | 12:30 - 13:30    |   Lunch        | 
 | 13:30 - 15:30    |  Project Work   | 
 | 15:30 - 16:00    |  Coffee Break |  
@@ -30,14 +30,15 @@ layout: default
 
 | Time             | Wednesday |
 | ----------------:|:----------|
-| 09:00 - 10:00    |   Agriculture + ML - Joe Fennell      | 
+| 09:00 - 09:40    |   Big Data in Agriculture - Joe Fennell, UoM      | 
+| 09:40 - 10:00    |   Bioinformatics in Colombia - Eduardo Gomez, BIOS |
 | 10:00 - 10:30    |   Coffee Break       |
-| 10:30 - 11:00    |   BIOS - Jorge Arboleda    | 
-| 11:00 - 11:45    |   Agriculture + ML (practical) - Joe Fennell | 
-| 11:45 - 12:30    |   Project Work     | 
+| 10:30 - 10:50    |   Rice Disease Monitoring with Sentinel 2 - Andres Aguilar Ariza, UoM    | 
+| 10:50 - 11:15    |  Ecosystem Monitoring at CIAT - Paula Andrea Paz, CIAT |
+| 11:15 - 12:00    |   Code walk through/practical  | 
+| 12:00 - 12:30    |   RADA UK student talks x2  | 
 | 12:30 - 13:30    |   Lunch        |
-| 13:30 - 13:45    |   RADA UK Student Talk        |
-| 13:45 - 15:30    |  Project Work   | 
+| 13:30 - 15:30    |  Project Work   | 
 | 15:30 - 16:00    |  Coffee Break |  
 | 16:00 -  17:30   |   Project Work  | 
 | 17:30 - 18:00    |   Project Updates (3 mins per group)   |
