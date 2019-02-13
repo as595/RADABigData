@@ -46,8 +46,8 @@ layout: default
 | 09:00 - 10:00    |   Radiotherapy in Medellin - Gonzalo Cabal   | 
 | 10:00 - 10:30    |   Coffee Break     |
 | 10:30 - 11:00    |   Health + ML - Eliana & Andrew   | 
-| 11:00 - 11:45    |   Health + ML - Eliana & Andrew   | 
-| 11:45 - 12:30    |   Project Work     | 
+| 11:00 - 12:00    |   Health + ML - Eliana & Andrew   | 
+| 12:00 - 12:00    |   BIOS     | 
 | 12:30 - 13:30    |   Lunch        | 
 | 13:30 - 15:30    |  Project Work   | 
 | 15:30 - 16:00    |  Coffee Break |  
