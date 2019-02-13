@@ -3,8 +3,7 @@ To see how many of each source there are:
 
 for type in df['Source Type'].unique():
     if '?' not in type:
-        print('{} {}'.format(type,len( df[ df['Source Type'].str.contains(type) ] )))
-        
+        print('{} {}'.format(type,len( df[ df['Source Type']==type ] )))
         
         
 Remove source types with question marks, and create new array df_confident:
