@@ -12,5 +12,5 @@ Remove source types with question marks, and create new array df_confident:
 df_confident = pd.DataFrame()
 for type in df['Source Type'].unique():
     if '?' not in type:
-        print('{} {}'.format(type,len( df[ df['Source Type'].str.contains(type) ] )))
-        df_confident = df_confident.append( df[ df['Source Type'].str.contains(type) ] )
+        print('{} {}'.format(type,len( df[ df['Source Type']==type ] )))
+        df_confident = df_confident.append( df[ df['Source Type']==type ] )
