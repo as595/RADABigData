@@ -58,5 +58,5 @@ layout: default
 | 09:00 - 10:00    | Group Work    | 
 | 10:00 - 10:30    | Coffee Break    |
 | 10:30 - 12:00    | Group Presentations   | 
-| 12:00 - 12:30    | Judging & Wrap-up    | 
+| 12:00 - 12:30    | Feedback & Wrap-up    | 
 
